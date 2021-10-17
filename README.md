@@ -39,7 +39,7 @@
 
 1. 下载 SDK：[codeinstallsdk.aar](codeinstallsdk.aar)
 
-注意：targetSdkVersion 必须设置为小于等于 29
+注意：targetSdkVersion 的值必须小于等于 29
 
 2. 事例
 
