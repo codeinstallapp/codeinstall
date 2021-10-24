@@ -65,7 +65,7 @@
 
 ## iOS 端
 
-1. 下载 SDK：[Codeinstallsdk.xcframework](Codeinstallsdk.xcframework)
+1. 下载 SDK：[Codeinstallsdk.xcframework](Codeinstallsdk.xcframework.zip)
 
 2. 事例
 
